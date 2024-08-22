@@ -23,7 +23,7 @@ This project requires the following libraries to be installed in your Python env
 
    ```bash
    conda create -n bubblepop_env python=3.8
+   pip install mediapipe pygame
    ```
-   
-3. run ```python bubble.py``
+3. **run the program**: ```python bubble.py``
 
