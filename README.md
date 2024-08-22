@@ -25,3 +25,5 @@ This project requires the following libraries to be installed in your Python env
    conda create -n bubblepop_env python=3.8
    ```
    
+3. run ```python bubble.py``
+
